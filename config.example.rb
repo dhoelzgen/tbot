@@ -1,0 +1,9 @@
+module Config
+  TWITTER_CONSUMER_KEY = ""
+  TWITTER_CONSUMER_SECRET = ""
+  TWITTER_OAUTH_TOKEN = ""
+  TWITTER_OAUTH_TOKEN_SECRET = ""
+
+  BOT_TRACK_WORDS = %w"foo bar"
+  BOT_REPLY_MSG = "Yeah !USERNAME, that's awesome"
+end
